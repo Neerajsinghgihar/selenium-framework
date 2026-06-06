@@ -10,7 +10,7 @@ public class LoginTest {
 
         System.out.println("Running Login Test");
 
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
 
     }
 }
